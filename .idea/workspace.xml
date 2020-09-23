@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62965959-8fc6-4b8b-844b-a526c70d73cc" name="Default Changelist" comment="" />
+    <list default="true" id="62965959-8fc6-4b8b-844b-a526c70d73cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/practice1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1huLsqURr6oBI68Di9JVoh5FHI0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +65,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="532" y="255" key="#Notifications" timestamp="1600860835330">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="532" y="255" key="#Notifications/62.0.1474.864@62.0.1474.864" timestamp="1600860835330" />
+    <state x="1032" y="333" key="Github.ShareDialog" timestamp="1600860699777">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="1032" y="333" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1600860699777" />
     <state x="308" y="77" key="SettingsEditor" timestamp="1600857939213">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
