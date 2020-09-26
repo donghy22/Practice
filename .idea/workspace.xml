@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="62965959-8fc6-4b8b-844b-a526c70d73cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -27,8 +47,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -64,6 +85,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="532" y="255" key="#Notifications" timestamp="1600860835330">
       <screen x="62" y="0" width="1474" height="864" />
@@ -73,9 +105,25 @@
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="1032" y="333" key="Github.ShareDialog/62.0.1474.864@62.0.1474.864" timestamp="1600860699777" />
-    <state x="308" y="77" key="SettingsEditor" timestamp="1600857939213">
+    <state width="1453" height="224" key="GridCell.Tab.0.bottom" timestamp="1601120436459">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
-    <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1600857939213" />
+    <state width="1453" height="224" key="GridCell.Tab.0.bottom/62.0.1474.864@62.0.1474.864" timestamp="1601120436459" />
+    <state width="1453" height="224" key="GridCell.Tab.0.center" timestamp="1601120436459">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="224" key="GridCell.Tab.0.center/62.0.1474.864@62.0.1474.864" timestamp="1601120436459" />
+    <state width="1453" height="224" key="GridCell.Tab.0.left" timestamp="1601120436459">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="224" key="GridCell.Tab.0.left/62.0.1474.864@62.0.1474.864" timestamp="1601120436459" />
+    <state width="1453" height="224" key="GridCell.Tab.0.right" timestamp="1601120436459">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state width="1453" height="224" key="GridCell.Tab.0.right/62.0.1474.864@62.0.1474.864" timestamp="1601120436459" />
+    <state x="308" y="77" key="SettingsEditor" timestamp="1600861508956">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="308" y="77" key="SettingsEditor/62.0.1474.864@62.0.1474.864" timestamp="1600861508956" />
   </component>
 </project>
