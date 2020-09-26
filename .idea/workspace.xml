@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="62965959-8fc6-4b8b-844b-a526c70d73cc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice1.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebPractice" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -95,12 +94,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="532" y="255" key="#Notifications" timestamp="1600860835330">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
     <state x="532" y="255" key="#Notifications/62.0.1474.864@62.0.1474.864" timestamp="1600860835330" />
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1601122445341">
+      <screen x="62" y="0" width="1474" height="864" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/62.0.1474.864@62.0.1474.864" timestamp="1601122445341" />
     <state x="1032" y="333" key="Github.ShareDialog" timestamp="1600860699777">
       <screen x="62" y="0" width="1474" height="864" />
     </state>
